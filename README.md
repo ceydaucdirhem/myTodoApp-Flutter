@@ -1,7 +1,7 @@
 
 # ✨ My To do App with Flutter
 
-# View App
+# App's View
 
 ![1](https://github.com/ceydaucdirhem/myTodoApp-Flutter/assets/80065036/cdade3ef-93fe-4d31-9903-88b5d4475aed)
 
